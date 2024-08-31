@@ -72,8 +72,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("DNS_NETWORK")
-                await self.two.join_chat("Dns_Official_Channel")
+                await self.two.join_chat("TG_NAME_STYLE")")
+                await self.two.join_chat("TG_NAME_STYLE")")
             except:
                 pass
             assistants.append(2)
@@ -135,8 +135,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("DNS_NETWORK")
-                await self.five.join_chat("Dns_Official_Channel")
+                await self.five.join_chat("TG_NAME_STYLE")")
+                await self.five.join_chat("TG_NAME_STYLE")")
             except:
                 pass
             assistants.append(5)
