@@ -69,7 +69,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 🎶", url="https://t.me/magician_music_bot"
+                text="𝐇𝐞𝐫𝐮𝐤𝐨 𝐂𝐜 𝐚𝐝𝐝", url="https://t.me/ll_SARKAR_MERA_BABU_ll"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -89,7 +89,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 🎶", url="https://t.me/magician_music_bot"
+                text="𝐇𝐞𝐫𝐮𝐤𝐨 𝐂𝐜 𝐚𝐝𝐝", url="https://t.me/ll_SARKAR_MERA_BABU_ll"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
